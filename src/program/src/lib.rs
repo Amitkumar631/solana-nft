@@ -6,6 +6,7 @@ use mpl_token_metadata::instruction::create_metadata_accounts_v2;
 
 declare_id!("9FKLho9AUYScrrKgJbG1mExt5nSgEfk1CNEbR8qBwKTZ");
 
+
 #[program]
 pub mod nft_minting_contract {
 
